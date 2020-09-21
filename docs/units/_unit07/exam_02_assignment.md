@@ -49,11 +49,11 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabe 07-1-L3: Verortung der Messwerte im Höhenprofil
 
-Abschließend wollen Sie die Messwerte zur Luftbelastung im Kontext des Reliefs betrachten und erstellen als Vorbereitung dafür ein Höhenprofil zwischen den Luftmessstationen *Hohenheimer Straße* und *Am Neckartor* (siehe [LUBW](https://www.lubw.baden-wuerttemberg.de/aktuelle-messwerte))
+Abschließend wollen Sie die Messwerte zur Luftbelastung im Kontext des Reliefs betrachten und erstellen als Vorbereitung dafür ein Höhenprofil zwischen den Luftmessstationen *Hohenheimer Straße* und *Arnulf-Klett-Platz* (siehe [LUBW](https://www.lubw.baden-wuerttemberg.de/aktuelle-messwerte))
 
 {% capture A07-1-L3 %}
 
-1.  Verorten Sie auf einer [topographischen Karte](https://ilias.uni-marburg.de/goto.php?target=file_2036140_download&client_id=UNIMR) die beiden Messstationen, zeichnen Sie diese ein und verbinden Sie die Standorte mit einer Linie.
+1.  Verorten Sie auf einer [topographischen Karte](https://ilias.uni-marburg.de/goto.php?target=file_2036140_download&client_id=UNIMR) die beiden Messstationen, zeichnen Sie diese ein und verbinden Sie die Standorte mit einer Geraden.
 1.  Zeichnen Sie ein Höhenprofil entlang der Linie mit 10-facher Überhöhung. Tragen Sie zusätzlich die Koordinaten der zwei Messtationen sowie jeweils den Messwert für Stickstoffdioxid vom 9. Juli 2020 00:00 Uhr ein.
 
 Fügen Sie beide Abbildungen in guter Qualität in Ihre PDF-Datei ein.

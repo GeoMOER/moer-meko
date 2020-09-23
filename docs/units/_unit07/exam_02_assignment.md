@@ -53,7 +53,7 @@ Abschließend wollen Sie die Messwerte zur Luftbelastung im Kontext des Reliefs 
 
 {% capture A07-1-L3 %}
 
-1.  Verorten Sie auf einer [topographischen Karte](https://ilias.uni-marburg.de/goto.php?target=file_2036140_download&client_id=UNIMR) die beiden Messstationen, zeichnen Sie diese ein und verbinden Sie die Standorte mit einer Linie.
+1.  Verorten Sie auf einer [topographischen Karte](https://ilias.uni-marburg.de/goto.php?target=file_2036140_download&client_id=UNIMR) die beiden Messstationen, zeichnen Sie diese ein und verbinden Sie die Standorte mit einer Strecke.
 1.  Zeichnen Sie ein Höhenprofil entlang der Linie mit 10-facher Überhöhung. Tragen Sie zusätzlich die Koordinaten der zwei Messtationen sowie jeweils den Messwert für Stickstoffdioxid vom 5. Oktober 2020 00:00 Uhr ein.
 
 Fügen Sie beide Abbildungen in guter Qualität in Ihre PDF-Datei ein.

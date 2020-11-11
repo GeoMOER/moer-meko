@@ -20,6 +20,7 @@ Ergänzend gibt es noch einen geschlossenen [Kursbereich auf ILIAS](https://ilia
 * Jeden zweiten Donnerstag starten wir mit einer neuen Kurseinheit. Für diese finden Sie neue Lernmaterialien und neue Aufgaben auf dieser Webseite. Für die Bearbeitung der Aufgaben, die die Grundlage Ihrer Studienleistung sind, haben Sie anschließend 10 Tage Zeit, die Abgabefrist ist immer am Sonntag um 20:00 Uhr. Sie bearbeiten die Übungseinheiten in Zweierteams und reichen eine Bearbeitung pro Team ein. 
 
 
+
 Abgesehen von diesen Fristen, können Sie sich Ihr Lernen und die Bearbeitung der Aufgaben frei einteilen. Weitere Informationen zur Studienleistung finden Sie [hier]({{ site.baseurl }}{% link _unit00/unit00-03_assignments.md %}))
 
 
@@ -40,7 +41,8 @@ Diese Webseite dient der einseitigen Kommunikation und Bereitstellung von Materi
 Der [Kursbereich auf ILIAS](https://ilias.uni-marburg.de/goto.php?target=crs_2112718&client_id=UNIMR) dient der Organisation des Kurses, der Bereitstellung urheberrechtlich geschützter Materialien, der Bereitstellung weiterer Kommunikationsformate und der Abgabe von Aufgaben.
 
 ### Forum in ILIAS
-In Ilias ist ein Forum eingerichtet, das Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. Hier können Sie inhaltliches und organisatorische untereinander klären. Das Forum wird von uns nicht betreut. 
+
+In ILIAS ist ein Forum eingerichtet, das Ihnen ermöglicht mit Ihren Kommilitonen in Kontakt zu treten. Hier können Sie Inhaltliches und Organisatorische untereinander klären. Das Forum wird von uns nicht betreut. 
 
 
 ### E-Mail
@@ -48,4 +50,5 @@ Sie erreichen uns unter phillip.bengel@geo.uni-marburg.de und rieke.ammoneit@geo
 
 
 ### Kleingruppen
-Damit Sie nicht isoliert arbeiten müssen, werden wir Sie in der ersten Session in Kleingruppen einteilen. In jeder Kleingruppe finden sich dann Zweierteam zusammen, die bis zum Ende des Kurses bestehen bleiben. Wir empfehlen Ihnen sehr, sich nicht nur mit Ihrem/Ihrer Arbetispartner/in, sondern mit allen Mitgliedern Ihrer Kleingruppe zu vernetzten, um einen internen Austausch während des Semeseters zu ermöglichen. Im ILIAS unter ‘Reservierungen’ können Sie die Students-Account Ihrer Gruppenmitglieder einsehen. Kombiniert mit "@students.uni-marburg.de" ergeben sich daraus die E-Mail-Adressen in Ihrer Gruppe, so dass Sie sich im digitalen Raum verabreden können, z.B. innerhalb oder außerhalb von ILIAS mit Mail, Messengern, Chats oder Videokonferenzen. Diese Kleingruppe bietet Ihnen dieses Semester eine informelle Möglichkeit sich auszutauschen und gegenseitige Hilfe anzubieten. Innerhalb dieser Gruppe finden Sie sich bitte in Paaren zusammen. Die Aufgaben bearbeiten Sie dann zu zweit und geben sie auch zu zweit ab. 
+Damit Sie nicht isoliert arbeiten müssen, werden wir Sie in der ersten Session in Kleingruppen einteilen. In jeder Kleingruppe finden sich dann Zweierteam zusammen, die bis zum Ende des Kurses bestehen bleiben. Wir empfehlen Ihnen sehr, sich nicht nur mit Ihrem/Ihrer Arbetispartner/in, sondern mit allen Mitgliedern Ihrer Kleingruppe zu vernetzten, um einen internen Austausch während des Semeseters zu ermöglichen.
+

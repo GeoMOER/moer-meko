@@ -6,7 +6,7 @@ header:
 
 ---
 
-In der Aufgabe stellen Sie Ihre Kompetenzen in der Interpretation von Karten und der Anfertigung von maßstabsgetreuen Skizzen unter Beweis. Sie sollen zunächst Karten der Luft- und Lärmbelastung in Stuttgart beschreiben, anschließend deren Datengrundlage kritisch bewerten und schließlich ein Höhenprofil anfertigen, in das Sie ausgewählte Messstationen und Messwerte einzeichnen.
+In der Aufgabe stellen Sie Ihre Kompetenzen in der Interpretation von Karten und der Anfertigung von maßstabsgetreuen Skizzen unter Beweis. Sie sollen zunächst die Datengrundlage zweier Karten der Luft- und Lärmbelastung in Stuttgart analysieren, anschließend ein Höhenprofil anfertigen, in das Sie ausgewählte Messstationen und Messwerte einzeichnen und abschließend die Eignung der Karten für den unterrichtlichen Einsatz bewerten.
 
 
 
@@ -51,7 +51,7 @@ Umfang: 2 Seiten in Ihrer PDF-Datei.
 
 
 ## Aufgabe 06-1-L3: Kartenbeschreibung
-Abschließend wollen Sie die Karte hinsichtlich ihres Potenzials für den Unterricht evaluieren.
+Abschließend wollen Sie die Karte hinsichtlich ihres Potenzials für die Auseinandersetzung mit Luft-und Lärmbelastung im Unterricht evaluieren.
 
 
 {% capture A06-1-L1 %}

@@ -12,62 +12,64 @@ panel1:
     alt: "Eine Luftaufnahme des Barossa Valley in Südaustralien, Australien"
 ---
 
-In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Dekonstruktion von Geomedien unter Beweis. Dazu betrachten Sie zunächst die Veränderung einer Abbildung zu Werbezwecken kritisch, analysieren anschließend eine ungewöhnliche Abbildung von Marburg, um abschließend einen Raum zielgerichtet zu abstrahieren und Ihr eigenes Vorgehen zu erläutern.
+In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Dekonstruktion von Geomedien unter Beweis. Dazu abstrahieren Sie zunächst einen Raum zielgerichtet und erläutern Ihr Vorgehen, dann betrachten Sie die Veränderung einer Abbildung zu Werbezwecken kritisch, anschließend reflektieren Sie den Kompentenzerwerb im Modell.
 
+## Aufgabe 06-3-L1: Raumabstraktion
 
-## Aufgabe 06-3-L1: Reflexive Kartenanalyse: Helter Skelter Railways
+Als Besitzer/in des dargestellten Weinguts wollen Sie für Ihre Homepage eine Skizze erstellen, die die räumliche Einbettung Ihres Hofs treffend und ansprechend darstellt.
 
-Sie leben in der Region Helter-Skelter und bekommen eine [Werbung der neuen Eisenbahngesellschaft *Helter, Skelter & Northern Railway*](https://ilias.uni-marburg.de/goto.php?target=file_2036433_download&client_id=UNIMR) (Abbildung 1). Die Abkürzung „HS & N“ steht für „Helter, Skelter & Northern Railway“-Eisenbahngesellschaft und „HS & Y“ für die „Helter, Skelter & Yon“-Eisenbahngesellschaft. Eine weitere Gesellschaft, die für die Aufgabe nicht von unmittelbarer Relevanz ist, ist mit „H & ERR“ angegeben.
-
-Sie wundern sich über die Darstellung in der Werbung, da Sie den Streckenverlauf der verschiedenen Eisenbahngesellschaften ganz anders in Erinnerung haben. Ihr Eindruck des örtlichen Streckennetzes deckt sich mit der neutralen [Abbildung der Eisenbahningenieure](https://ilias.uni-marburg.de/goto.php?target=file_2036433_download&client_id=UNIMR) (Abbildung 2). Diese Karte stellt für Sie also die "Wirklichkeit" dar, gegen die Sie die Werbungskarte vergleichen.
+{% include gallery id="panel1"  caption= "Foto: [Luftaufnahme des Barossa Valley in Südaustralien](https://w.wiki/WLo) Louis Roving/ CC BY via commons.wikimedia.org" %}
 
 {% capture A06-3-L1 %}
 
-Analysieren Sie die verwendete Karte/Skizze (Abbildung 1) vor dem Hintergrund ihres Einsatzes in der Werbung für die "HS & N" in circa 5 Sätzen.
+1. Erstellen Sie eine Handskizze des im Luftbild abgebildeten Raumausschnitts mit Blick auf Ihre oben angegebene Zielsetzung.
+1. Erläutern Sie inwieweit und warum Sie von einer möglichst 100% realitätsnahen Darstellung abgewichen sind in Stichworten.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
 {% endcapture %}
+
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung 06-3-L1:</h4>
   {{ A06-3-L1 | markdownify }}
 </div>
 
-**Hinweis:** Da es sich um eine kartenähnliche Skizze handelt, ist das Fehlen von Legende, Nordpfeil etc. vernachlässigbar.
-{: .notice--info}
 
+## Aufgabe 06-3-L2: Reflexive Kartenanalyse: Helter Skelter Railways
 
-## Aufgabe 06-3-L2: Dekonstruktion einer Marburg Karte
+Sie leben in der Region Helter-Skelter und bekommen eine [Werbung der neuen Eisenbahngesellschaft *Helter, Skelter & Northern Railway*](https://ilias.uni-marburg.de/goto.php?target=file_2036433_download&client_id=UNIMR) (Abbildung 1). Die Abkürzung „HS & N“ steht für „Helter, Skelter & Northern Railway“-Eisenbahngesellschaft und „HS & Y“ für die „Helter, Skelter & Yon“-Eisenbahngesellschaft. Eine weitere Gesellschaft, die für die Aufgabe nicht von unmittelbarer Relevanz ist, ist mit „H & ERR“ angegeben.
 
-Als Leiter des Touristikbüros in Marburg, wollen Sie die Stadt in innovativer Weise bewerben und für Touristen/-innen zugänglich machen. Sie stoßen zufällig auf eine [kartenähnliche Abbildung](https://ilias.uni-marburg.de/goto.php?target=file_2033524_download&client_id=UNIMR) von Pablo de la Riestra, der Marburg in einer ungewohnten Darstellungsform visualisiert hat und fragen sich, inwiefern die Karte für Ihre Zwecke geeignet ist.
+Sie wundern sich über die Darstellung in der Werbung, da Sie den Streckenverlauf der verschiedenen Eisenbahngesellschaften ganz anders in Erinnerung haben. Ihr Eindruck des örtlichen Streckennetzes deckt sich mit der [Abbildung der Eisenbahningenieure](https://ilias.uni-marburg.de/goto.php?target=file_2036433_download&client_id=UNIMR) (Abbildung 2). 
 
 {% capture A06-3-L2 %}
 
-Analysieren Sie die Karte vor dem Hintergrund ihres Einsatzes als Tourismuskarte in maximal 10 Sätzen und nutzen Sie dabei gegebenenfalls auch Ihre Ortskenntnis. Gehen Sie dabei insbesondere auf das vermittelte Bild der Stadt ein. Erläutern Sie auch, durch welche kartographischen und visuellen Merkmale dieses Bild erzeugt wird.
+Analysieren Sie die verwendete Karte/Skizze (Abbildung 1) vor dem Hintergrund ihres Einsatzes in der Werbung für die "HS & N" in Stichworten.
 
-Umfang: 2 Seite Ihrer PDF Datei
+Umfang: 1 Seite in Ihrer PDF-Datei.
+
 {% endcapture %}
 <div class="notice--success">
   <h4 class="no_toc">Aufgabenstellung 06-3-L2:</h4>
   {{ A06-3-L2 | markdownify }}
 </div>
 
-## Aufgabe 06-3-L3: Raumabstraktion
+**Hinweis:** Da es sich um eine kartenähnliche Skizze handelt, ist das Fehlen von Legende, Nordpfeil etc. vernachlässigbar.
+{: .notice--info}
 
-Als Besitzer/in des dargestellten Weinguts wollen Sie für Ihre Homepage eine Skizze erstellen, die die räumliche Einbettung Ihres Hofs treffend und ansprechend darstellt.
 
-{% include gallery id="panel1"  caption= "Foto: [Luftaufnahme des Barossa Valley in Südaustralien](https://w.wiki/WLo) Louis Roving/ CC BY via commons.wikimedia.org" %}
+## Aufgabe 06-3-L3: Abschlussreflexion
+
+Abschließend sollen Sie den Bogen spannen und die im Modul erworbenen Kompetenzen in Hinblick auf das im Artikel von [Schulze, Gryl und Kanwischer (2015)](https://www.tandfonline.com/doi/full/10.1080/03098265.2015.1048506) vorgestellten Kompetenzmodells diskutieren. Gehen Sie dafür zunächst die Lerneinheiten durch sammeln, welche Kompetenzen Sie erworben haben. Vergleichen Sie diese dann mit dem Kompetenzmodel.
 
 {% capture A06-3-L3 %}
 
-1. Erstellen Sie eine Handskizze des im Luftbild abgebildeten Raumausschnitts mit Blick auf Ihre oben angegebene Zielsetzung.
-1. Erläutern Sie inwieweit und warum Sie von einer möglichst 100% realitätsnahen Darstellung abgewichen sind in maximal 6 Sätzen.
+Welchen Zusammenhang sehen Sie zwischen dem Konzept der Spatial Citizenship und den Modulinhalten? Welche Schnittmengen gibt es hinsichtlich der erworbenen und der im Artikel beschriebenen Kompetenzen? Welche Abweichungen? Entwickeln Sie eine Graphik, die Ihre Ergebnisse übersichtlich darstellt. 
 
-Umfang: 2 Seite in Ihrer PDF-Datei.
 
+Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}
 
 <div class="notice--success">
-  <h4 class="no_toc">Aufgabenstellung 06-3-L3:</h4>
+  <h4 class="no_toc">Aufgabenstellung A06-3-L3:</h4>
   {{ A06-3-L3 | markdownify }}
 </div>

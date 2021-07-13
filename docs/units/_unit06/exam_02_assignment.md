@@ -16,7 +16,7 @@ In den jüngeren Ausgaben des Diercke Atlas findet sich eine Karte zur Verkehrsb
 
 {% capture A06-1-L2 %}
 
-1.  Analysieren Sie die veröffentlichten Daten zur Luftqualität in Stuttgart in maximal 5 Sätzen.
+1.  Analysieren Sie die veröffentlichten Daten zur Luftqualität in Stuttgart in Stichworten.
 1.  Bewerten Sie auf Basis der Daten des LUBW die Belastbarkeit der in den Karte dargestellten Luftbelastung in maximal 5 Sätzen.
 
 Umfang: 1 Seite in Ihrer PDF-Datei.

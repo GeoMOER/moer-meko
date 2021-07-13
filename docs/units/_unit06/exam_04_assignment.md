@@ -16,14 +16,14 @@ In dieser Aufgabe stellen Sie Ihre Kompetenzen in der Dekonstruktion von Geomedi
 
 ## Aufgabe 06-3-L1: Raumabstraktion
 
-Als Besitzer/in des dargestellten Weinguts wollen Sie für Ihre Homepage eine Skizze erstellen, die die räumliche Einbettung Ihres Hofs treffend und ansprechend darstellt.
+Als Besitzer/in des dargestellten Weinguts wollen Sie für Ihre Homepage eine Skizze erstellen, die die räumliche Einbettung Ihres Hofs treffend darstellt.
 
 {% include gallery id="panel1"  caption= "Foto: [Luftaufnahme des Barossa Valley in Südaustralien](https://w.wiki/WLo) Louis Roving/ CC BY via commons.wikimedia.org" %}
 
 {% capture A06-3-L1 %}
 
-1. Erstellen Sie eine Handskizze des im Luftbild abgebildeten Raumausschnitts mit Blick auf Ihre oben angegebene Zielsetzung.
-1. Erläutern Sie inwieweit und warum Sie von einer möglichst 100% realitätsnahen Darstellung abgewichen sind in Stichworten.
+1. Erstellen Sie eine Handskizze des im Luftbild abgebildeten Raumausschnitts, die Landnutzung (in Form von Landnutzungsarten), Straßennetz und Bebauungsfläche verdeutlicht.
+1. Schreiben Sie Ihre Vorgehensweise und die von Ihnen gemachten Abstraktionsschritte in Stichpunkten auf. 
 
 Umfang: 1 Seite in Ihrer PDF-Datei.
 
@@ -59,7 +59,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabe 06-3-L3: Abschlussreflexion
 
-Abschließend sollen Sie den Bogen spannen und die im Modul erworbenen Kompetenzen in Hinblick auf das im Artikel von [Schulze, Gryl und Kanwischer (2015)](https://www.tandfonline.com/doi/full/10.1080/03098265.2015.1048506) vorgestellten Kompetenzmodells diskutieren. Gehen Sie dafür zunächst die Lerneinheiten durch sammeln, welche Kompetenzen Sie erworben haben. Vergleichen Sie diese dann mit dem Kompetenzmodel.
+Abschließend sollen Sie den Bogen spannen und die im Modul erworbenen Kompetenzen in Hinblick auf das im Artikel von [Schulze, Gryl und Kanwischer (2015)](https://www.tandfonline.com/doi/full/10.1080/03098265.2015.1048506) vorgestellten Kompetenzmodells diskutieren. Gehen Sie dafür zunächst die Lerneinheiten durch und sammeln, welche Kompetenzen Sie erworben haben. Vergleichen Sie diese dann mit dem Kompetenzmodel.
 
 {% capture A06-3-L3 %}
 

@@ -88,6 +88,6 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 ### Aufgabe 02-3: Modellierkompetenz
 Lesen Sie den Artikel zur Modellierkompetenz. Kehren Sie die dann zu Ihrer Skizze in Aufgabe 02-1 zurück. Wir betrachten in diesem Beispiel eine antropogen geprägt Raumstruktur. Welche Funktionen menschlicher Raumnutzung finden Sie in der von Ihnen abstrahierten Struktur? Das heißt welche Raumelemente hängen in der Nutzung durch Menschen wie zusammen? Verändert die funktionale Betrachtungsweise ihre Sichtweise auf die Struktur? Welche Prozesse leiten Sie aus ihren Modellierung von Struktur und Funktion ab? Wie ist hat sich die Struktur des Raumausschnittes über die Zeit herausgebildet?
 
-* Bilden Sie vier Sätze in denen jeweils zwei Raumelemnte funktional miteinander verknüpft werden. (z.B. *Das Dorf* ist über *die Straße* erreichbar.)
+* Bilden Sie vier Sätze in denen jeweils zwei Raumelemente funktional miteinander verknüpft werden. (z.B. *Das Dorf* ist über *die Straße* erreichbar.)
 * Verändern Sie Ihre Skizze, wenn Sie unter der funktionalen Betrachtungsweise Verbesserungsideen für die Abstraktion der Struktur haben. 
 * Wie ist der Prozess der menschlichen Raumerschließung abgelaufen? Welche Strukturen müssen zu erst da gewesen sein? Welche habe sich danach herausgebildet? Gab es Rückkopplungen? Leiten Sie Ihre Prozessmodellierung aus den modellierten Sturkturen und Funktionen ab. Stellen Sie ihre Überlegungen in einem Flowchart dar. 

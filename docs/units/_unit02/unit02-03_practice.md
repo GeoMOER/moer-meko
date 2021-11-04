@@ -90,4 +90,7 @@ Lesen Sie den Artikel zur Modellierkompetenz. Kehren Sie die dann zu Ihrer Skizz
 
 * Bilden Sie vier Sätze in denen jeweils zwei Raumelemente funktional miteinander verknüpft werden. (z.B. *Das Dorf* ist über *die Straße* erreichbar.)
 * Verändern Sie Ihre Skizze, wenn Sie unter der funktionalen Betrachtungsweise Verbesserungsideen für die Abstraktion der Struktur haben. 
-* Wie ist der Prozess der menschlichen Raumerschließung abgelaufen? Welche Strukturen müssen zu erst da gewesen sein? Welche habe sich danach herausgebildet? Gab es Rückkopplungen? Leiten Sie Ihre Prozessmodellierung aus den modellierten Sturkturen und Funktionen ab. Stellen Sie ihre Überlegungen in einem Flowchart dar. 
+* Wie ist der Prozess der menschlichen Raumerschließung abgelaufen? Welche Strukturen müssen zu erst da gewesen sein? Welche habe sich danach herausgebildet? Leiten Sie Ihre Prozessmodellierung aus den modellierten Sturkturen und Funktionen ab. Stellen Sie ihre Überlegungen in einem Flowchart dar. Gab es Rückkopplungen? Tragen Sie die Rückkopplungen mit einer anderen Farbe in Ihr Flowchart ein und markieren Sie mit + und - ob es sich um eine versträkende oder gegenläufige Entwicklung handelt. 
+
+## Kommentar
+Die Aufgabe ist so noch nicht fertig, sondern im Prozess der Erarbeitung. Es wäre auch denkbar das Flowchart anstatt der Trampelpfade als Prüfungsaufgabe zu nehmen. 

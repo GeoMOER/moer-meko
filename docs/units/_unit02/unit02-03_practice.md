@@ -57,6 +57,15 @@ In Aufgabe 02 trainieren Sie die Modellierung von Raumeigenschaften. Sie üben d
 Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github.io/moer-meko//unit00/unit00-03_assignments.html#formale-anforderungen).
 {: .notice--danger}
 
+### Die NetLogo Modellierungssoftware
+Wir benötigen die Software NetLogo. Falls NetLogo auf euren Rechnern nicht installiert sein, könnt ihr die freie Software in einer passenden Version für euer Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. Vor allem wenn ihr über unseren Workshop hinaus ein wenig stöbern und ausprobieren wollt ist diese Variante sinnvoll.
+
+
+
+Habt ihr keine Lust auf eine Installation oder sollte es beim Download Probleme geben könnt ihr auch mit der der hier unten eingebetten Online-Variante arbeiten. Ihr könnt das nachstehende Online-Modell mit einem Klick auf den Button "NetLogo exportieren" und herunterladen um es mit einer lokalen Installation von NetLogo öffnen.
+
+{% include media url="/assets/misc/fire.html" %}
+
 
 ### Aufgabe 02-1: Erstellen von Raumskizzen
 In der Aufgabe üben Sie selbst eine schematische Skizze eines Raums zu erstellen. Nutzen Sie hierfür das Luftbild von Sanspareil und modellieren sie die strukturellen Eigenschaften des abgebildeten Raums. Eine geeignete Vorgehensweise ist das Erkennen und Kategorisieren von [Geoobjekten]({{ site.baseurl }}{% link _unit02/unit02-02_learning_material.md %}). Bedenken Sie bitte, dass Sie Geoobjekte vereinheitlichen oder zusammenfassen müssen, um Raumeinheiten abgrenzen zu können.

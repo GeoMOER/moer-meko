@@ -58,13 +58,21 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 {: .notice--danger}
 
 ### Die NetLogo Modellierungssoftware
-Wir benötigen die Software NetLogo. Falls NetLogo auf euren Rechnern nicht installiert sein, könnt ihr die freie Software in einer passenden Version für euer Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. Vor allem wenn ihr über unseren Workshop hinaus ein wenig stöbern und ausprobieren wollt ist diese Variante sinnvoll.
-
+Wir benötigen die Software NetLogo. Falls NetLogo auf Ihren Rechnern nicht installiert ist, können Sie die freie Software in einer passenden Version für euer Betriebssystem auf der [Download-Seite](https://ccl.northwestern.edu/netlogo/6.2.0/) herunterladen und installieren. 
 
 
 Habt ihr keine Lust auf eine Installation oder sollte es beim Download Probleme geben könnt ihr auch mit der der hier unten eingebetten Online-Variante arbeiten. Ihr könnt das nachstehende Online-Modell mit einem Klick auf den Button "NetLogo exportieren" und herunterladen um es mit einer lokalen Installation von NetLogo öffnen.
 
 {% include media url="/assets/misc/fire.html" %}
+https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Sample%20Models/Earth%20Science/Fire.nlogo 
+kann aus gisma-courses nicht pullen und phushen, deswegen konnte ich es noch nicht einpflegen.
+
+### Aufgabe 
+* was zum Raum und der Frage, wie er modelliert ist (Raster, Freifläche, Baum)
+* Wie ist die Ausbreitung des Feuers modelliert
+* vielleicht betten wir das ganze in ein Szenario ein, innerhalb desser wir mit dem Model eine Fragestellung beantworten wollen (das könnte man ggf. auch als Prüfungsaufgabe nehmen)
+* unter what to do wird, vorgeschlagen die verbrannten in Patches in Abhängigkeit von der Baumdichte darstellen zu lassen und die Kurve zu interpretieren. Vielleicht machen wir das noch? 
+
 
 
 ### Aufgabe 02-1: Erstellen von Raumskizzen

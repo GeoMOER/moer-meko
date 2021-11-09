@@ -70288,7 +70288,10 @@ breed [embers ember]  ;; turtles gradually fading from red to near black
 patches-own
 [ tree?    ;; this is used to "unburn" the forest so that different configurations of fire-breaks
            ;; can be tried on the same forest
-  break? ] ;; this is where the firebreaks have been drawn
+  break?
+  zone2?
+
+  ] ;; this is where the firebreaks have been drawn
 
 to setup
   ;; (for this model to work with NetLogo's new plotting features,
@@ -70467,6 +70470,9 @@ to burn-all-the-forest
     ]
   ]
 end
+
+
+
 ; Copyright 1997 Uri Wilensky. All rights reserved.
 ; The full copyright notice is in the Information tab.
 
@@ -70511,15 +70517,15 @@ Prozent verbrannt
 11
 
 SLIDER
-25
-250
-210
-283
+24
+227
+209
+260
 Walddichte
 Walddichte
 0.0
 99.0
-60
+61
 1.0
 1
 %
@@ -70560,10 +70566,10 @@ NIL
 1
 
 BUTTON
-23
-614
-228
-647
+17
+578
+222
+611
 Feuerschneise zeichnen
 draw-firebreak
 T
@@ -70577,10 +70583,10 @@ NIL
 1
 
 BUTTON
-24
-570
-227
-603
+20
+496
+219
+529
 Wald wiederherstellen
 unburn-forest
 NIL
@@ -70594,10 +70600,10 @@ NIL
 1
 
 BUTTON
-17
-692
-240
-725
+15
+654
+221
+687
 Feuerschneisen entfernen
 remove-firebreaks
 NIL
@@ -70611,10 +70617,10 @@ NIL
 1
 
 SLIDER
-28
-651
-229
-684
+15
+616
+221
+649
 Breite-Feuerschneise
 Breite-Feuerschneise
 1
@@ -70626,10 +70632,10 @@ NIL
 HORIZONTAL
 
 BUTTON
-26
-530
-160
-563
+18
+535
+219
+568
 Wald zeichnen
 draw-forest
 T
@@ -70677,10 +70683,10 @@ NIL
 1
 
 SLIDER
-26
-290
-211
-323
+25
+267
+218
+300
 Feuer-zu-Glut
 Feuer-zu-Glut
 0.05
@@ -70692,10 +70698,10 @@ NIL
 HORIZONTAL
 
 SWITCH
-27
-338
-174
-371
+26
+315
+219
+348
 Wind?
 Wind?
 1
@@ -70703,10 +70709,10 @@ Wind?
 -1000
 
 SLIDER
-28
-381
-221
-414
+27
+358
+220
+391
 Wind-Richtung
 Wind-Richtung
 1
@@ -70718,10 +70724,10 @@ NIL
 HORIZONTAL
 
 SLIDER
-26
-427
-220
-460
+25
+404
+219
+437
 Windgeschwindigeit
 Windgeschwindigeit
 0.5
@@ -70733,10 +70739,10 @@ NIL
 HORIZONTAL
 
 SLIDER
-25
-471
-219
-504
+24
+448
+218
+481
 Wind-Boeigkeit
 Wind-Boeigkeit
 0
@@ -70750,7 +70756,7 @@ HORIZONTAL
 @#$#@#$#@
 
 ## WAS IST DAS?
-Dieses Modell ist eine Erweiterung des von Uri Wilensky entwickelten Feuermodells, das in NetLogos Modellbibliothek enthalten ist. Es simuliert die Ausbreitung eines Feuers in einem Wald definierter Dichte. Zusaetzlich ermoeglicht es die Nutzerschnittstelle dem Benutzer, Feuerschneisen, zusaetzliche aeume und Startpunkte fuer das Feuer hinzuzufuegen.
+Dieses Modell ist eine Erweiterung des von Uri Wilensky entwickelten Feuermodells, das in NetLogos Modellbibliothek enthalten ist. Es simuliert die Ausbreitung eines Feuers in einem Wald definierter Dichte. Zusaetzlich ermoeglicht es die Nutzerschnittstelle dem Benutzer, Feuerschneisen, zusaetzliche Baeume und Startpunkte fuer das Feuer hinzuzufuegen.
 ## WIE FUNKTIONIERT ES?
 Mit der Schaltflaeche Setup wird ein Zufallsforst mit der angegebenen Dichte erstellt.
 Der Benutzer kann manuell an verschiedenen Stellen Braende ausloesen, indem er auf die Schaltflaeche "Waldbrand-Startpunkte" drueckt und dann an der gewuenschten Stelle auf die Maustaste klickt. Alternativ kann der Benutzer das Feuer auch an einer durchgehenden vertikalen Linie auf der linken Seite der Umgebung entzuenden, indem er auf die Schaltflaeche "Waldrandlinie starten"  klickt. Mit der Schaltflaeche "Wald zeichnen" kann ein zusaetzlicher Wald gezeichnet werden, und mit der Schaltflaeche "Feuerschneise zeichnen" koennen Feuerschneisen gezeichnet werden.
@@ -71098,6 +71104,34 @@ setup
 repeat 180 [ go ]
 @#$#@#$#@
 @#$#@#$#@
+<experiments>
+  <experiment name="experiment" repetitions="1" runMetricsEveryStep="true">
+    <setup>setup</setup>
+    <go>go</go>
+    <metric>count turtles</metric>
+    <enumeratedValueSet variable="Wind?">
+      <value value="false"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Windgeschwindigeit">
+      <value value="2.5"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Walddichte">
+      <value value="60"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Breite-Feuerschneise">
+      <value value="3"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Wind-Boeigkeit">
+      <value value="90"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Feuer-zu-Glut">
+      <value value="0.1"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Wind-Richtung">
+      <value value="181"/>
+    </enumeratedValueSet>
+  </experiment>
+</experiments>
 @#$#@#$#@
 @#$#@#$#@
 default

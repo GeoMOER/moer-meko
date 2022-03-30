@@ -37,14 +37,8 @@ Umfang: 1 Seite in Ihrer PDF-Datei.
 
 ## Aufgabe 05-2-L2: Unsicherheiten und Klimawandel!
 
-Text und Graphiken dess IPPC-Berichts geben Aufschluss über Unsicherheiten die mit den wissenschaftlichen Methoden einhergehen. Die Unsicherheiten gehen einerseits mit (1) Raum und Zeit einher, andererseits mit (2) Raum und Maßstab.
-
-{% capture A05-2-L2 %}
-
-Erläutern Sie jeweils zwei Unsicherheiten zu den im IPPC-Bericht veröffentlichten Veränderung der globalen Oberflächentemperatur. Formulieren Sie jeweils zwei Unsicherheiten, die einhergehen mit
-(1)	Raum und Zeit
-(2)	Raum und Maßstab.
-Formulieren Sie die Unsicherheiten jeweils mit max. einem Satz (= insgesamt vier Sätze).
+Text und Graphiken des IPPC-Berichts geben Aufschluss über Unsicherheiten die mit den wissenschaftlichen Methoden einhergehen. Nennen Sie in Stichpunkten zwei Ursachen für Unsicherheiten die mit den Methoden einhergehen (= insgesamt zwei Stichpunkte oder Halbsätze). 
+Konkretisieren Sie zwei Unsicherheiten zu den im IPPC-Bericht veröffentlichten Veränderung der globalen Oberflächentemperatur jeweils mit max. einem Satz (= insgesamt zwei Sätze).
 
 
 Umfang: 1 Seite in Ihrer PDF-Datei
@@ -57,15 +51,7 @@ Umfang: 1 Seite in Ihrer PDF-Datei
 </div>
 
 
-## Aufgabe 05-2-L3: Umgang mit Unsicherheit, sicher gestalten!
 
-Mit Konsens und Unsicherheiten souverän umgehen zu können ist eine zentrale Aufgabe von Wissenschaft, aber auch von Bildung und Gesellschaft. Welche Aufgaben kommen dahingehend (1) der Wissenschaft zu, welche (2) der Bildung und hier explizit dem Erdkundeunterricht und welche (3) Ihnen persönlich. 
-Beschreiben Sie die Aufgaben mit jeweils max. zwei Sätzen für (1)-(3).
-
-{% capture A05-2-L3 %}
-
-Spannen Sie abschließend den Bogen zu diesem Modul und bewerten Sie den Zusammenhang von Unsicherheiten und Geomedien. Welchen Beitrag können Geomedien im Unterricht leisten, um die Schüler_innen in ihrem souveränen Umgang mit Daten und Informationen im Kontext von Unsicherheiten zu fördern? 
-Ziehen Sie Ihr abschließendes Resümee mit max. drei Sätzen.  
 
 Umfang: 1 Seite in Ihrer PDF-Datei
 {% endcapture %}

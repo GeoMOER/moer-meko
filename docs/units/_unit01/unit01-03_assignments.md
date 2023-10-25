@@ -24,7 +24,7 @@ Bitte beachten Sie die bindenden [formalen Anforderungen](https://geomoer.github
 
 ## Aufgabe 01-1: Lärm- und Luftverschmutzung in Marburg
 
-In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm- und Luftverschmutzung in Marburg. [Hier finden Sie die Versionen der Karte von 1991 und 2002](https://ilias.uni-marburg.de/goto.php?target=fold_1924576&client_id=UNIMR).
+In vielen älteren Ausgaben des Diercke Atlas’ findet sich eine Karte zu Lärm- und Luftverschmutzung in Marburg. [Hier finden Sie die Versionen der Karte von 1991 und 2002](https://ilias.uni-marburg.de/ilias.php?ref_id=3397477&cmd=view&cmdClass=ilrepositorygui&cmdNode=z0&baseClass=ilrepositorygui).
 
 
 

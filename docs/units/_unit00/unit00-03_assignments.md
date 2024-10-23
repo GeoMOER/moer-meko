@@ -46,13 +46,13 @@ Für jede Aufgabe ist **eine** PDF-Datei mit der korrekten Seitenzahl einzureich
 
 
 ## Bestehen der Studienleistung
-Die Studienleistung gilt als bestanden, wenn Ihre Gruppe in jeder Einheit eine Einreichung erbacht hat und davon mindestens drei Einreichungen formal korrekt sind.
+Die Studienleistung gilt als bestanden, wenn Ihre Gruppe in jeder Einheit eine als eigenständige Erarbeitung erkennbare Einreichung erbacht hat und die Einreichungen formal korrekt sind. Entspricht eine Einreichung nicht den Formalia, kann am Ende des Semesters eine dann bekanntgegebene Zusatzleistung erbracht werden. 
 
 
 ## Prüfungsleistung
 Am Ende jeder Lerneinheit finden Sie Prüfungsaufgaben (P). Sie können die Prüfung entweder als Gruppen- oder als Einzelarbeit erbringen.
 
-Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 18. Februar Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt gemäß obiger formaler Vorgaben ein.
+Für die Erarbeitung der Prüfungsaufgaben haben Sie bis zum 15. März Zeit. Bitte reichen Sie die Prüfungsaufgaben aller Lerneinheiten am Ende des Moduls gebündelt gemäß obiger formaler Vorgaben ein.
 {: .notice--danger}
 
 

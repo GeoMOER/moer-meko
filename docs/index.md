@@ -44,7 +44,7 @@ Studierende, die den Kurs besuchen, finden alle inhaltlichen Informationen auf d
 
 ## Studien- und Prüfungsleistung
 
-In jeder der vier Kurseinheiten werden Aufgaben gestellt. Es gibt Übungs- und Prüfungsaufgaben.  Die Studienleistung gilt als bestanden, wenn  die frist- und formgerechte Abgabe der Übungsergebnisse vorliegt. Die Prüfungsleistung gilt als bestanden wenn die frist- und formgerechte Abgabe der Einrichungen aufgrund ihrer inhaltlichen Qualität mit mindestens 5 Notenpunkten bewertet wurde.  
+In jeder der vier Kurseinheiten werden Aufgaben gestellt. Es gibt Übungs- und Prüfungsaufgaben.  Die Studienleistung gilt als bestanden, wenn  die frist- und formgerechte Abgabe der Übungsergebnisse in erkannbarer Eigenleistung vorliegt. Die Prüfungsleistung gilt als bestanden wenn die frist- und formgerechte Abgabe der Einrichungen aufgrund ihrer inhaltlichen Qualität mit mindestens 5 Notenpunkten bewertet wurde.  
 
 Details zur Abgabe von Aufgaben finden Sie im Bereich [How-to MeKo]({{ site.baseurl }}{% link _unit00/unit00-02_learning.md %}).
 {: .notice--info}
@@ -70,7 +70,7 @@ Entsprechend der Berechnung von ECTS Punkten sollten Sie in einer durchschnittli
 
 
 ## Kurszeiten
-**Kurszeiten**: Montags, 14:15-15:45 oder donnerstags 12:15 -13:45
+**Kurszeiten**: donnerstags 10:15 - 11:45
               
 
 

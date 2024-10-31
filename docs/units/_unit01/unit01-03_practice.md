@@ -12,7 +12,7 @@ In den Aufgaben üben Sie Atlaskarten kritisch zu reflektieren. Dazu beschäftig
 
 
 ## Benötigte Materialien für die Aufgaben
-* [die Diercke-Atlaskarte "Marburg Luft- und Lärmbelastung" aus den Jahren 1992 und 2002](https://ilias.uni-marburg.de/ilias.php?ref_id=2617910&cmd=view&cmdClass=ilrepositorygui&cmdNode=wq&baseClass=ilrepositorygui)
+* die Diercke-Atlaskarte "Marburg Luft- und Lärmbelastung" aus den Jahren [1992](https://ilias.uni-marburg.de/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=4144799) und [2002](https://ilias.uni-marburg.de/ilias.php?baseClass=ilrepositorygui&cmd=sendfile&ref_id=4144800)
 * eine Suchmaschiene
 * die Homepage des Hessischen Landesamts für Umwelt, Naturschutz und Geologie
 * ein Tabellenkaluationsprogramm
